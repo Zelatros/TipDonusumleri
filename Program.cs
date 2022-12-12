@@ -65,7 +65,7 @@ namespace tipdonusumleri
             toplam = sayı1 + sayı2;
             Console.WriteLine("toplam: " + toplam);
 
-            // Parse Methodut
+            // Parse Methodu
 
             Console.WriteLine("**** Parse Methodu ****");
             ParseMethod();
